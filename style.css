@@ -1,3 +1,4 @@
+/* Styles containers on each page for a simple appearance and ensures that the content adheres to margins */
 .my-container {
     margin-top: 20px;
     font-size: 22px;
@@ -13,7 +14,7 @@ h1 {
     margin-bottom: 10px;
     float: left;
 }
-
+/* Styles picture on About Me page, which is fits in different screen formats */
 img {
     margin-bottom: 15px;
 }
