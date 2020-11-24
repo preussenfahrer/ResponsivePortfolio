@@ -1,0 +1,24 @@
+.my-container {
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.rounded {
+    width: 35%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+img {
+    margin-bottom: 15px;
+}
+
+.form-group {
+    max-width: 500px;
+    margin: auto;
+}
