@@ -1,7 +1,12 @@
+body {
+    align-items: center;
+}
+
 /* Styles containers on each page for a simple appearance and ensures that the content adheres to margins */
 .my-container {
     margin-top: 20px;
     font-size: 22px;
+    justify-items: center;
 }
 
 h1 {
